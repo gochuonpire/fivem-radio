@@ -26,7 +26,7 @@ Video showing Los Santos Rock Radio replaced by a WebRadio and Non-Stop-Pop FM r
 
 For each custom radio, add this line in `_resource.lua`:
 ```lua
-supersede_radio "[ORIGINAL_RADIO_NAME]" { url = "[RADIO URL]", volume = 0.5, name = "[NEW RADIO NAME]" }
+supersede_radio "RADIO_03_HIPHOP_NEW" { url = "http://azuraURL", volume = 0.1, name = "RADIONAME", api = "azuraapiurl/api/nowplaying/1" }
 ```
 
 You can find the list of radio names in [`data.js`](radio/data.js) and a full example in [`__resource.lua`](radio/__resource.lua).
