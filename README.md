@@ -16,7 +16,7 @@ It's fully written in JavaScript and uses resource metadata for its configuratio
 ## Showcase
 
 Video showing Los Santos Rock Radio replaced by a WebRadio and Non-Stop-Pop FM replaced by a song:
-[![Showcase](https://cf-e2.streamablevideo.com/image/6hrhp_1.jpg)](https://streamable.com/6hrhp "Showcase")
+[![Showcase](http://images.streamable.com/east/image/27mf6.jpg)](https://streamable.com/27mf6 "Showcase")
 
 ## Known bugs and limitations
 
