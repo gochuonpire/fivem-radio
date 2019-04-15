@@ -11,6 +11,7 @@ It's fully written in JavaScript and uses resource metadata for its configuratio
 * No dependency
 * Easy configuration
 * Player-configurable volume
+* Song titles and artists pulled from Azuracast api
 
 ## Showcase
 
