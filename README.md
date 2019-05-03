@@ -1,7 +1,7 @@
 # FiveM Radio
 
 This resource allows you to integrate your own radios in place of the original radios.
-It's fully written in JavaScript and uses resource metadata for its configuration.
+It's ~~fully~~ written in JavaScript and uses resource metadata for its configuration.
 
 ## Features
 
